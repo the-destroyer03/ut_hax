@@ -5,7 +5,7 @@ def clear():
 	os.system('cls' if os.name == 'nt' else 'clear')
 
 def save_edit(line, new_value):
-	save = '../../%AppData%/local/UNDERTALE/file0' if os.name == 'nt' else '../../.config/UNDERTALE/file0'
+	save = '../../%AppData%/local/UNDERTALE/file0' if os.name == 'nt' else '/.config/UNDERTALE/file0'
 		
 	with open(save, 'r', encoding='utf-8') as file:
 		data = file.readlines()
