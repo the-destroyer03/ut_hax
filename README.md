@@ -1,8 +1,8 @@
 # undertale_editor
 UI for editing UNDERTALE's save file values.
 ## Usage
-Extract archive to Home folder ('Desktop' on Windows).
-Open terminal in folder and run:
+Place script in Home folder (Desktop folder on Windows).
+Open terminal and input:
 ```
-python main.py
+python uedit.py
 ```
