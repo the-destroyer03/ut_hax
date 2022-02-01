@@ -1,4 +1,4 @@
-# undertale_editor
+# ut_savescummer
 UI for editing UNDERTALE's save file values.
 ## Usage
 Place script in Home folder (Desktop folder on Windows).
